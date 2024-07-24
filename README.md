@@ -7,3 +7,7 @@ There were two things that I needed help with on this assignment.
     1. total budget... i was using .nunique().sum() to get the total when i should have just been using .unique().sum() - thanks chatGPT
     2. displaying the bins under Scores by School Spending #24-26. I could not get the bins to display and kept getting an error of TypeError: '<' not supported between instances of 'int' and 'str' 
         chat GPT corrected my formatting and gave me a line of code to help display the bins properly.
+
+There is an analysis as well as two observable trends in a txt file, analysis.txt, and at the bottom of the PyCitySchools_Homework_Copy.
+
+-Thank you.

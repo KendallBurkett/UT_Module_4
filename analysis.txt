@@ -1,0 +1,7 @@
+Written report of two observable trends found in the data:
+
+1. Charter schools overall have a higher average subject scores as well as % passing rates.
+2. On average, District Schools have a higher per student budget, but a lower overall score and passing rate.
+
+
+To summarize the data, 

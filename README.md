@@ -61,6 +61,7 @@ This project uses **Jupyter Notebook** for exploratory data analysis (EDA) and v
      ```bash
      pip install -r requirements.txt
      ```
+---
 
 ## Results
 
@@ -68,12 +69,12 @@ This project uses **Jupyter Notebook** for exploratory data analysis (EDA) and v
 
 The following insights were derived from the analysis:
 1.	Overall Passing Rates:
-- * Charter Schools: 89% to 91% passing.
-- * District Schools: 52% to 54% passing.
+- Charter Schools: 89% to 91% passing.
+- District Schools: 52% to 54% passing.
 2.	Budget Impact:
-- * District schools have a higher budget per student but perform worse overall in test scores and passing rates.
+- District schools have a higher budget per student but perform worse overall in test scores and passing rates.
 3.	Performance Comparison:
-- * Charter schools consistently outperform district schools in both math and reading scores.
+- Charter schools consistently outperform district schools in both math and reading scores.
 
 ## Author
 

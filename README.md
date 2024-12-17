@@ -94,6 +94,6 @@ https://github.com/KendallBurkett?tab=repositories
 kbz1987@icloud.com
 
 
-* There is an analysis as well as two observable trends in a txt file, analysis.txt, and at the bottom of the PyCitySchools_Homework_Copy.
+* There is an analysis as well as two observable trends in a txt file, analysis.txt, and at the bottom of the PyCitySchools.
 
 - Thank you.

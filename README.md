@@ -84,6 +84,7 @@ The following insights were derived from the analysis:
 2.	Budget vs. Performance:
 - Higher per-student budgets in district schools do not correlate with better performance.
 - This raises questions about the efficiency of budget allocation in district schools.
+---
 
 ## Author
 

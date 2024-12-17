@@ -75,6 +75,15 @@ The following insights were derived from the analysis:
 - District schools have a higher budget per student but perform worse overall in test scores and passing rates.
 3.	Performance Comparison:
 - Charter schools consistently outperform district schools in both math and reading scores.
+---
+
+## Observable Trends
+
+1.	Charter Schools Perform Better:
+- Higher average subject scores and passing rates across all grades.
+2.	Budget vs. Performance:
+- Higher per-student budgets in district schools do not correlate with better performance.
+- This raises questions about the efficiency of budget allocation in district schools.
 
 ## Author
 

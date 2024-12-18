@@ -1,4 +1,4 @@
-# Pandas Challenge
+## Pandas Challenge
 
 # PyCitySchools Analysis
 
@@ -9,7 +9,6 @@
 - [Installation](#installation)
 - [Results](#results)
 - [Observable Trends](#observable-trends)
-- [Author](#author)
 
 ---
 
@@ -69,31 +68,19 @@ This project uses **Jupyter Notebook** for exploratory data analysis (EDA) and v
 
 The following insights were derived from the analysis:
 1.	Overall Passing Rates:
-- Charter Schools: 89% to 91% passing.
-- District Schools: 52% to 54% passing.
+   - Charter Schools: 89% to 91% passing.
+   - District Schools: 52% to 54% passing.
 2.	Budget Impact:
-- District schools have a higher budget per student but perform worse overall in test scores and passing rates.
+   - District schools have a higher budget per student but perform worse overall in test scores and passing rates.
 3.	Performance Comparison:
-- Charter schools consistently outperform district schools in both math and reading scores.
+   - Charter schools consistently outperform district schools in both math and reading scores.
 ---
 
 ## Observable Trends
 
 1.	Charter Schools Perform Better:
-- Higher average subject scores and passing rates across all grades.
+   - Higher average subject scores and passing rates across all grades.
 2.	Budget vs. Performance:
-- Higher per-student budgets in district schools do not correlate with better performance.
-- This raises questions about the efficiency of budget allocation in district schools.
+   - Higher per-student budgets in district schools do not correlate with better performance.
+   - This raises questions about the efficiency of budget allocation in district schools.
 ---
-
-## Author
-
-**Kendall Burkett**  
-https://github.com/KendallBurkett?tab=repositories
- 
-kbz1987@icloud.com
-
-
-* There is an analysis as well as two observable trends in a txt file, analysis.txt, and at the bottom of the PyCitySchools.
-
-- Thank you.
